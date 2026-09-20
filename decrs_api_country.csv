@@ -1,0 +1,57 @@
+COUNTRY_CODE,COUNTRY_NAME,API_FACILITY_COUNT,PCT_OF_API_TOTAL
+IND,India,563,22.44
+CHN,China,532,21.2
+USA,United States,531,21.16
+ITA,Italy,91,3.63
+DEU,Germany,89,3.55
+JPN,Japan,86,3.43
+FRA,France,65,2.59
+ESP,Spain,58,2.31
+GBR,United Kingdom,46,1.83
+CAN,Canada,43,1.71
+KOR,South Korea,43,1.71
+CHE,Switzerland,41,1.63
+IRL,Ireland,34,1.36
+NLD,Netherlands,26,1.04
+MEX,Mexico,22,0.88
+ISR,Israel,21,0.84
+DNK,Denmark,21,0.84
+TWN,Taiwan,20,0.8
+AUT,Austria,15,0.6
+BEL,Belgium,15,0.6
+SGP,Singapore,12,0.48
+BRA,Brazil,11,0.44
+HUN,Hungary,10,0.4
+CZE,Czech Republic,10,0.4
+SWE,Sweden,9,0.36
+ARG,Argentina,9,0.36
+POL,Poland,8,0.32
+AUS,Australia,6,0.24
+ZAF,South Africa,5,0.2
+FIN,Finland,5,0.2
+TUR,Turkey,5,0.2
+NOR,Norway,5,0.2
+HKG,HKG,4,0.16
+SVK,Slovakia,4,0.16
+LTU,Lithuania,4,0.16
+MYS,Malaysia,4,0.16
+MLT,Malta,3,0.12
+NZL,New Zealand,3,0.12
+THA,Thailand,3,0.12
+HRV,Croatia,3,0.12
+PRT,Portugal,3,0.12
+ROU,Romania,2,0.08
+ISL,ISL,2,0.08
+SVN,Slovenia,2,0.08
+BGR,Bulgaria,2,0.08
+DOM,DOM,2,0.08
+LVA,Latvia,2,0.08
+CRI,Costa Rica,1,0.04
+GRC,Greece,1,0.04
+EST,Estonia,1,0.04
+CHL,Chile,1,0.04
+COG,COG,1,0.04
+MAC,MAC,1,0.04
+JOR,Jordan,1,0.04
+RWA,RWA,1,0.04
+PRY,PRY,1,0.04

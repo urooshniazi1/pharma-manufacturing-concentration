@@ -1,0 +1,83 @@
+COUNTRY_CODE,COUNTRY_NAME,FACILITY_COUNT,PCT_OF_TOTAL,IS_DOMESTIC
+USA,United States,5659,54.1,True
+CHN,China,1178,11.26,False
+IND,India,1062,10.15,False
+DEU,Germany,257,2.46,False
+CAN,Canada,228,2.18,False
+FRA,France,190,1.82,False
+ITA,Italy,183,1.75,False
+KOR,South Korea,159,1.52,False
+GBR,United Kingdom,157,1.5,False
+JPN,Japan,152,1.45,False
+ESP,Spain,144,1.38,False
+CHE,Switzerland,112,1.07,False
+MEX,Mexico,92,0.88,False
+IRL,Ireland,81,0.77,False
+TWN,Taiwan,64,0.61,False
+NLD,Netherlands,55,0.53,False
+BEL,Belgium,48,0.46,False
+ISR,Israel,45,0.43,False
+AUS,Australia,42,0.4,False
+AUT,Austria,34,0.33,False
+TUR,Turkey,34,0.33,False
+DNK,Denmark,32,0.31,False
+SGP,Singapore,32,0.31,False
+BRA,Brazil,31,0.3,False
+HKG,HKG,30,0.29,False
+SWE,Sweden,27,0.26,False
+CZE,Czech Republic,26,0.25,False
+POL,Poland,20,0.19,False
+PRT,Portugal,19,0.18,False
+FIN,Finland,19,0.18,False
+ARG,Argentina,15,0.14,False
+MYS,Malaysia,15,0.14,False
+SVN,Slovenia,13,0.12,False
+ZAF,South Africa,12,0.11,False
+GRC,Greece,11,0.11,False
+HUN,Hungary,11,0.11,False
+NZL,New Zealand,11,0.11,False
+THA,Thailand,11,0.11,False
+BGD,Bangladesh,10,0.1,False
+COL,Colombia,9,0.09,False
+NOR,Norway,8,0.08,False
+MLT,Malta,7,0.07,False
+VNM,Vietnam,7,0.07,False
+PAK,Pakistan,7,0.07,False
+ROU,Romania,7,0.07,False
+SVK,Slovakia,6,0.06,False
+LTU,Lithuania,6,0.06,False
+DOM,DOM,6,0.06,False
+ARE,United Arab Emirates,6,0.06,False
+BGR,Bulgaria,5,0.05,False
+IDN,Indonesia,5,0.05,False
+JOR,Jordan,5,0.05,False
+PHL,Philippines,4,0.04,False
+HRV,Croatia,4,0.04,False
+CRI,Costa Rica,4,0.04,False
+EGY,Egypt,4,0.04,False
+EST,Estonia,3,0.03,False
+ISL,ISL,3,0.03,False
+LVA,Latvia,3,0.03,False
+MAC,MAC,3,0.03,False
+CYM,CYM,2,0.02,False
+URY,Uruguay,2,0.02,False
+BRB,BRB,2,0.02,False
+CHL,Chile,2,0.02,False
+HND,HND,2,0.02,False
+ABW,ABW,1,0.01,False
+COG,COG,1,0.01,False
+BOL,BOL,1,0.01,False
+ARM,Armenia,1,0.01,False
+ECU,Ecuador,1,0.01,False
+KHM,KHM,1,0.01,False
+GTM,Guatemala,1,0.01,False
+MMR,MMR,1,0.01,False
+MCO,MCO,1,0.01,False
+PRY,PRY,1,0.01,False
+PER,Peru,1,0.01,False
+OMN,OMN,1,0.01,False
+SLV,SLV,1,0.01,False
+SRB,Serbia,1,0.01,False
+RWA,RWA,1,0.01,False
+SAU,Saudi Arabia,1,0.01,False
+UKR,Ukraine,1,0.01,False

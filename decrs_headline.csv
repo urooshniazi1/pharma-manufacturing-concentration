@@ -1,0 +1,7 @@
+METRIC,VALUE,CATEGORY,PCT
+Total Establishments,10460,all,100.0
+Domestic (USA),5659,all,54.1
+Foreign,4801,all,45.9
+API Manufacture - Total,2509,api,100.0
+API Manufacture - Domestic,531,api,21.2
+API Manufacture - Foreign,1978,api,78.8
